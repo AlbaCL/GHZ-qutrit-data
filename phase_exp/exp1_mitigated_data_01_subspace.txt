@@ -1,0 +1,80 @@
+<XXX>:
+counts 000:  86
+counts 001:  2
+counts 010:  0
+counts 011:  90
+counts 100:  0
+counts 101:  99
+counts 110:  79
+counts 111:  0
+_____________________
+<YYX>:
+counts 000:  12
+counts 001:  90
+counts 010:  104
+counts 011:  0
+counts 100:  66
+counts 101:  0
+counts 110:  0
+counts 111:  84
+_____________________
+<YXY>:
+counts 000:  7
+counts 001:  77
+counts 010:  84
+counts 011:  1
+counts 100:  83
+counts 101:  0
+counts 110:  0
+counts 111:  88
+_____________________
+<XYY>:
+counts 000:  0
+counts 001:  96
+counts 010:  77
+counts 011:  0
+counts 100:  85
+counts 101:  0
+counts 110:  0
+counts 111:  76
+_____________________
+<YYY>:
+counts 000:  45
+counts 001:  52
+counts 010:  33
+counts 011:  45
+counts 100:  38
+counts 101:  39
+counts 110:  34
+counts 111:  41
+_____________________
+<XXY>:
+counts 000:  35
+counts 001:  46
+counts 010:  46
+counts 011:  31
+counts 100:  34
+counts 101:  36
+counts 110:  39
+counts 111:  32
+_____________________
+<XYX>:
+counts 000:  43
+counts 001:  58
+counts 010:  42
+counts 011:  42
+counts 100:  41
+counts 101:  32
+counts 110:  43
+counts 111:  42
+_____________________
+<YXX>:
+counts 000:  26
+counts 001:  51
+counts 010:  43
+counts 011:  33
+counts 100:  42
+counts 101:  30
+counts 110:  31
+counts 111:  43
+_____________________

@@ -1,0 +1,3 @@
+counts 000:  167
+counts 111:  155
+counts 222:  99
